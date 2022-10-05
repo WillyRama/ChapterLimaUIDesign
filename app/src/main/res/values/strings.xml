@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">ChapterLimaUIDesign</string>
+    <string name="masuk">Masuk</string>
+    <string name="masukkan_username">Masukkan username</string>
+    <string name="masukkan_password">Masukkan password</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="inggris">Inggris</string>
+</resources>

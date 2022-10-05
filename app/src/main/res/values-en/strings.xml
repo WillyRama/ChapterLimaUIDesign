@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChapterLimaUIDesign</string>
+    <string name="masuk">Login</string>
+    <string name="masukkan_username">Insert username</string>
+    <string name="masukkan_password">Insert password</string>
+    <string name="indonesia">Indonesian</string>
+    <string name="inggris">English</string>
+</resources>
